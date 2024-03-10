@@ -61,7 +61,7 @@ def main():
 
         for slave in slaves:
             slave.receive_offset()  # Receive offset from master
-            slave.update_time() # Update time based on the offset
+            slave.update_time()  # Update time based on the offset
 
         time.sleep(5)  # Wait for 5 seconds before syncing again
         print("\n\n")
