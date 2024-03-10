@@ -1,6 +1,3 @@
-Certainly! Here's a concise README based on the provided information:
-
----
 
 # Berkeley Time Synchronization Algorithm
 
