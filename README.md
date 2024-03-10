@@ -19,13 +19,17 @@ The Berkeley Algorithm is a time synchronization algorithm that was developed by
 
 1. **Installation**: No installation is required. Simply clone the repository to your local machine.
 
-    ```git clone https://github.com/Gennadion/berkeley-algorithm.git```
+    ```
+   git clone https://github.com/Gennadion/berkeley-algorithm.git
+   ```
 
 
 2. **Running the System**:
    - Execute `runner.py` to start the system.
    
-        ```python runner.py```
+      ```
+      python runner.py
+      ```
 
    - The master node will be started automatically, while slave nodes can be added dynamically during runtime.
 
